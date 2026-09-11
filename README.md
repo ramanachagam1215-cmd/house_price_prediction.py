@@ -7,7 +7,7 @@ A Machine learning project that predicts house prices using Linear Regression.
 - Pandas
 - NumPy
 - Scikit-learn
-- Linear Regression
+  
 
 ## Project Description
 This project uses a Linear Regression model to predict house prices based on input features.
